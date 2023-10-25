@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/siddiqui.github.io/portfolio/static/css/main.aee197c8.css",
+    "main.js": "/siddiqui.github.io/portfolio/static/js/main.a31380bf.js",
+    "static/media/project1.png": "/siddiqui.github.io/portfolio/static/media/project1.ede25cae0a2ed3bc3412.png",
+    "static/media/project3.png": "/siddiqui.github.io/portfolio/static/media/project3.aefd7089f8fa104e3967.png",
+    "static/media/intro-bg.jpg": "/siddiqui.github.io/portfolio/static/media/intro-bg.cf2364827d8b8a98642e.jpg",
+    "static/media/pro2.png": "/siddiqui.github.io/portfolio/static/media/pro2.9feb7f442e28580d080b.png",
+    "static/media/react1.jpg": "/siddiqui.github.io/portfolio/static/media/react1.d63ca3791694cd8f6f49.jpg",
+    "static/media/react2.webp": "/siddiqui.github.io/portfolio/static/media/react2.8aa659a4278a7132e6f4.webp",
+    "index.html": "/siddiqui.github.io/portfolio/index.html",
+    "main.aee197c8.css.map": "/siddiqui.github.io/portfolio/static/css/main.aee197c8.css.map",
+    "main.a31380bf.js.map": "/siddiqui.github.io/portfolio/static/js/main.a31380bf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aee197c8.css",
+    "static/js/main.a31380bf.js"
+  ]
+}
